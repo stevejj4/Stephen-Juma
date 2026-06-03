@@ -34,95 +34,72 @@
 ## 🧠 Technical Skills
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+- Python
+- Java
+- SQL
+- JavaScript
+- TypeScript
 
 ---
 
 ### ⚙️ Data Engineering & Backend
-![Apache Spark](https://img.shields.io/badge/Spark-orange?style=for-the-badge&logo=apachespark)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-purple?style=for-the-badge)
-
-- Data ingestion & transformation pipelines
-- Batch & real-time data processing systems
-- API development and backend service design
+- Apache Spark
+- Spring Boot
+- ETL Pipelines
+- REST APIs
 
 ---
 
 ### ☁️ Cloud & Big Data
-![Google Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![BigQuery](https://img.shields.io/badge/BigQuery-lightblue?style=for-the-badge)
-
-- Distributed data systems
-- Real-time streaming pipelines
-- Cloud-based data warehouses
+- Google Cloud Platform (GCP)
+- AWS
+- BigQuery
+- Pub/Sub & Dataflow
 
 ---
 
 ### 🌐 Frontend & Testing
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![System Testing](https://img.shields.io/badge/System%20Testing-green?style=for-the-badge)
-
-- Built React + TypeScript dashboards and admin systems
-- Integrated REST APIs using Axios
-- Focus on system reliability through testing and validation
+- React
+- TypeScript
+- System Testing
 
 ---
 
 ### 🧠 Product & Engineering Skills
-![Requirement Gathering](https://img.shields.io/badge/Requirement--Gathering-blue?style=for-the-badge)
-![User Stories](https://img.shields.io/badge/User--Stories-purple?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System%20Design-black?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-orange?style=for-the-badge)
-
-- Requirement gathering from stakeholders and users
-- Writing user stories and defining acceptance criteria
-- Translating business needs into system architecture
+- Requirement Gathering
+- User Stories
+- System Design
+- Agile Development
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📌 Insurance Data Engineering Platform
-- Built a scalable **end-to-end data pipeline system**
-- Integrated multiple data sources into a unified warehouse
-- Supported:
-  - Risk analysis
-  - Customer segmentation
-  - Claim prediction
-- Technologies: Python, SQL, Spark, Machine Learning
+- Built end-to-end data pipeline system
+- Data ingestion, cleaning, transformation
+- Used for risk analysis and prediction
 
 ---
 
-### 📌 Real-Time Data Processing Pipeline (GCP)
-- Designed streaming architecture using:
-  - Pub/Sub
-  - Dataflow
-  - BigQuery
-- Enabled real-time analytics and decision-making
-- Integrated ML models for predictive insights
+### 📌 Real-Time Data Pipeline (GCP)
+- Streaming architecture using Pub/Sub & Dataflow
+- Real-time analytics system
+- Integrated ML predictions
 
 ---
 
-### 📌 Customer Interaction Analytics System (Cafe Rewards)
-- Analyzed multi-channel customer interactions (calls, emails, visits)
-- Delivered insights on:
-  - Customer satisfaction
-  - Peak engagement times
-  - Service efficiency
-- Built dashboards using Power BI + BigQuery + Python
+### 📌 Customer Analytics System
+- Analyzed customer interactions across channels
+- Built Power BI dashboards
+- Delivered business insights
 
 ---
 
 ### 📌 Java Data Ingestion Service
-- Built backend service to ingest Excel data into PostgreSQL
-- Designed for scalable ETL foundation
-- Focus on clean architecture and reliability
+- Excel → PostgreSQL ingestion pipeline
+- Foundation ETL architecture
+- Clean backend design
 
 ---
 
@@ -138,20 +115,10 @@
 
 ---
 
-## 🎯 What I’m Building Toward
-
-- Scalable data infrastructure systems
-- Real-time analytics platforms
-- Production-ready backend services
-- Mtaani Group (data-driven solutions for African businesses)
-
----
-
 ## 📫 Contact
 
-- 📧 Email: your-email@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌍 Portfolio: coming soon 🚀  
+- Email: your-email@gmail.com  
+- LinkedIn: https://linkedin.com/in/yourprofile  
 
 ---
 
