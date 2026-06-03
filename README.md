@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stephen Juma</h1>
 
 <p align="center">
-  Data Engineer | Backend Engineer | Cloud & Data Systems Builder
+  Data Engineer | Backend Engineer | Systems & Data Platform Builder
 </p>
 
 <p align="center">
-  Building data pipelines, real-time systems, and scalable backend platforms.
+  I build end-to-end systems — from requirements → backend → data pipelines → insights → user-facing dashboards.
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently focused on **Data Engineering, Backend Systems & Cloud Data Pipelines**
-- 🧠 I build **ETL pipelines, real-time data systems, and analytics platforms**
+- 🔭 I build **data pipelines, backend systems, and analytics platforms**
+- 🧠 I translate **business requirements into technical systems**
+- 📝 Experienced in **requirement gathering, user stories, and stakeholder collaboration**
+- ⚙️ I design and deliver **end-to-end systems (frontend → backend → data → insights)**
 - ☁️ I work with **AWS & Google Cloud (BigQuery, Pub/Sub, Dataflow)**
-- ⚙️ I design systems using **Python, Java, Spark, and SQL**
-- 📊 I turn raw data into **actionable insights for business decision-making**
-- 🚀 I’m building toward launching **Mtaani Group (data-driven solutions for businesses)**
-- 📫 Reach me at: **your-email@gmail.com**
+- 📊 I turn raw data into **actionable insights for decision-making**
+- 🚀 Currently building toward **Mtaani Group (data-driven solutions for real-world businesses)**
 
 ---
 
@@ -37,64 +37,92 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey?style=for-the-badge&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+---
 
 ### ⚙️ Data Engineering & Backend
 ![Apache Spark](https://img.shields.io/badge/Spark-orange?style=for-the-badge&logo=apachespark)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![ETL Pipelines](https://img.shields.io/badge/ETL-Pipelines-purple?style=for-the-badge)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-purple?style=for-the-badge)
+
+- Data ingestion & transformation pipelines
+- Batch & real-time data processing systems
+- API development and backend service design
+
+---
 
 ### ☁️ Cloud & Big Data
 ![Google Cloud](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=googlecloud)
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
 ![BigQuery](https://img.shields.io/badge/BigQuery-lightblue?style=for-the-badge)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+- Distributed data systems
+- Real-time streaming pipelines
+- Cloud-based data warehouses
 
-### 📊 BI & Tools
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+---
+
+### 🌐 Frontend & Testing
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![System Testing](https://img.shields.io/badge/System%20Testing-green?style=for-the-badge)
+
+- Built React + TypeScript dashboards and admin systems
+- Integrated REST APIs using Axios
+- Focus on system reliability through testing and validation
+
+---
+
+### 🧠 Product & Engineering Skills
+![Requirement Gathering](https://img.shields.io/badge/Requirement--Gathering-blue?style=for-the-badge)
+![User Stories](https://img.shields.io/badge/User--Stories-purple?style=for-the-badge)
+![System Design](https://img.shields.io/badge/System%20Design-black?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-orange?style=for-the-badge)
+
+- Requirement gathering from stakeholders and users
+- Writing user stories and defining acceptance criteria
+- Translating business needs into system architecture
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 📌 Insurance Data Engineering Platform
-- Built a **scalable data pipeline system for insurance analytics**
-- Data ingestion, cleaning, and transformation from multiple sources
-- Used for:
-  - Risk assessment
+- Built a scalable **end-to-end data pipeline system**
+- Integrated multiple data sources into a unified warehouse
+- Supported:
+  - Risk analysis
   - Customer segmentation
   - Claim prediction
-- Technologies: Python, SQL, Spark, ML models
+- Technologies: Python, SQL, Spark, Machine Learning
 
 ---
 
-### 📌 Real-Time Data Processing Pipeline
-- Streaming data architecture using **Google Cloud Platform**
-- Tools: Pub/Sub, Dataflow, BigQuery, Spark
-- Supports near real-time analytics and decision-making
-- Integrated machine learning for predictive insights
+### 📌 Real-Time Data Processing Pipeline (GCP)
+- Designed streaming architecture using:
+  - Pub/Sub
+  - Dataflow
+  - BigQuery
+- Enabled real-time analytics and decision-making
+- Integrated ML models for predictive insights
 
 ---
 
 ### 📌 Customer Interaction Analytics System (Cafe Rewards)
-- Analyzed multi-channel customer interactions (calls, visits, emails)
-- Built insights on:
+- Analyzed multi-channel customer interactions (calls, emails, visits)
+- Delivered insights on:
   - Customer satisfaction
-  - Peak engagement periods
+  - Peak engagement times
   - Service efficiency
-- Built dashboards using **Power BI + BigQuery + Python**
+- Built dashboards using Power BI + BigQuery + Python
 
 ---
 
 ### 📌 Java Data Ingestion Service
-- Backend service that reads structured data (Excel)
-- Loads into PostgreSQL database
-- Designed as foundation for ETL pipeline architecture
-- Focus: reliability, scalability, and clean ingestion flow
+- Built backend service to ingest Excel data into PostgreSQL
+- Designed for scalable ETL foundation
+- Focus on clean architecture and reliability
 
 ---
 
@@ -110,14 +138,23 @@
 
 ---
 
+## 🎯 What I’m Building Toward
+
+- Scalable data infrastructure systems
+- Real-time analytics platforms
+- Production-ready backend services
+- Mtaani Group (data-driven solutions for African businesses)
+
+---
+
 ## 📫 Contact
 
 - 📧 Email: your-email@gmail.com  
 - 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌍 Portfolio: coming soon  
+- 🌍 Portfolio: coming soon 🚀  
 
 ---
 
 <p align="center">
-  ⚡ Building scalable data systems that turn complexity into clarity ⚡
+  ⚡ Building systems that turn data into decisions ⚡
 </p>
